@@ -43,15 +43,16 @@ Prever a receita total (faturamento) por item vendido utilizando regressão com 
 ## 📁 Estrutura do projeto
 
 sales_prediction/
-├── venv/
-├── data/
-│ └── data.csv
-├── sales_prediction.ipynb
-├── README.md
 
-yaml
-Copiar
-Editar
+├── venv/
+
+├── data/
+
+│ └── data.csv
+
+├── sales_prediction.ipynb
+
+├── README.md
 
 ---
 
@@ -106,15 +107,16 @@ Predict total revenue per product using regression via the Random Forest algorit
 ## 📁 Project structure
 
 sales_prediction/
-├── venv/
-├── data/
-│ └── data.csv
-├── sales_prediction.ipynb
-├── README.md
 
-yaml
-Copiar
-Editar
+├── venv/
+
+├── data/
+
+│ └── data.csv
+
+├── sales_prediction.ipynb
+
+├── README.md
 
 ---
 
